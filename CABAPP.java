@@ -148,7 +148,7 @@ public class CABAPP {
 			int yr = dateOfBirth.getYear();
 			SenoirCitizen(yr,value,answer);
 			System.out.println("Cab Booked Successfully");
-			System.out.println("Happy Journey");
+			System.out.println("---Happy Journey---");
 			sc.close();
 
 
